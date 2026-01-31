@@ -26,7 +26,7 @@ public class Student{
   public void setAge(int val){
     this.age = val;
   }
-  
+   
   public void display(){
     System.out.println("Name: " + name);
     System.out.println("Age: " + age);
@@ -42,3 +42,4 @@ public class Student{
   
 
 }
+
