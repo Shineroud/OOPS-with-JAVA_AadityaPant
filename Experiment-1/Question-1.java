@@ -34,10 +34,11 @@ public class Student{
   }
   
   public static void main(String[] args){
-    Student s = new Student(99,"Vinam",20);
+    Student s = new Student(11280,"Aadi",19);
     s.display();
     s.setMarks(100);
     s.display();
   }
   
+
 }
